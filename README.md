@@ -1,3 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Aryan Singh | GitHub Dashboard</title>
+
+<link rel="stylesheet" href="style.css">
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap" rel="stylesheet">
+
+<link rel="stylesheet"
+href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+
+</head>
+
+<body>
+
+<div class="container">
+
+<header>
+
+<img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" class="profile">
+
+<h1>Aryan Singh</h1>
+
+<h3>Cloud Computing Engineer | DevOps Enthusiast | Full Stack Developer</h3>
+
+<p>
+Passionate Cloud Computing Professional with expertise in Linux,
+Networking, DevOps, Programming, Web Development and Cloud Infrastructure.
+Focused on building scalable, secure and high-performance applications.
+</p>
+
+</header>
+
+<section class="cards">
+
+<div class="card">
+<i class="fa-solid fa-code"></i>
+<h2>Programming Languages</h2>
+
+<ul>
+
+<li>Python</li>
+<li>Java</li>
+<li>C</li>
+<li>C++</li>
+<li>JavaScript</li>
+<li>TypeScript</li>
+<li>PHP</li>
+<li>Go</li>
+<li>Rust</li>
+<li>Kotlin</li>
+<li>Swift</li>
+<li>SQL</li>
+<li>HTML5</li>
+<li>CSS3</li>
+<li>Bash</li>
+
+</ul>
+
+</div>
+
+<div class="card">
+
+<i class="fa-solid fa-cloud"></i>
+
+<h2>Cloud Computing</h2>
+
+<ul>
+
+<li>AWS</li>
+<li>Microsoft Azure</li>
+<li>Google Cloud Platform</li>
+<li>Cloud Security</li>
+<li>Virtualization</li>
+<li>Linux Administration</li>
+<li>Load Balancing</li>
+<li>Auto Scaling</li>
+<li>Cloud Storage</li>
+<li>Monitoring</li>
+
+</ul>
+
+</div>
+
+<div class="card">
+
+<i class="fa-solid fa-server"></i>
+
+<h2>DevOps Tools</h2>
+
+<ul>
+
+<li>Docker</li>
+<li>Kubernetes</li>
+<li>Jenkins</li>
+<li>Git</li>
+<li>GitHub</li>
+<li>GitHub Actions</li>
+<li>Ansible</li>
+<li>Terraform</li>
+<li>Nginx</li>
+<li>Apache</li>
+
+</ul>
+
+</div>
+
+<div class="card">
+
+<i class="fa-solid fa-network-wired"></i>
+
+<h2>Networking</h2>
+
+<ul>
+
+<li>TCP/IP</li>
+<li>DNS</li>
+<li>HTTP / HTTPS</li>
+<li>SSH</li>
+<li>FTP</li>
+<li>VPN</li>
+<li>Firewalls</li>
+<li>Subnetting</li>
+<li>Routing</li>
+
+</ul>
+
+</div>
+
+</section>
+
+<section class="skills">
+
+<h2>Professional Skills</h2>
+
+<div class="skill">
+
+<span>Cloud Computing</span>
+
+<div class="bar">
+<div class="fill ninety"></div>
+</div>
+
+</div>
+
+<div class="skill">
+
+<span>Linux</span>
+
+<div class="bar">
+<div class="fill ninetyfive"></div>
+</div>
+
+</div>
+
+<div class="skill">
+
+<span>Programming</span>
+
+<div class="bar">
+<div class="fill eightyfive"></div>
+</div>
+
+</div>
+
+<div class="skill">
+
+<span>DevOps</span>
+
+<div class="bar">
+<div class="fill eighty"></div>
+</div>
+
+</div>
+
+<div class="skill">
+
+<span>Networking</span>
+
+<div class="bar">
+<div class="fill ninety"></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="achievement">
+
+<h2>Career Objective</h2>
+
+<p>
+
+Dedicated Cloud Computing and DevOps professional passionate about designing,
+deploying, and managing scalable cloud infrastructures. Skilled in Linux,
+Automation, CI/CD, Docker, Kubernetes, Networking, and Web Technologies.
+Continuously learning emerging technologies to deliver secure and efficient
+solutions.
+
+</p>
+
+</section>
+
+<footer>
+
+<h3>Made with ❤️ by Aryan Singh</h3>
+
+<p>GitHub Portfolio Dashboard</p>
+
+</footer>
+
+</div>
+
+</body>
+</html>
 *{
 margin:0;
 padding:0;
@@ -270,3 +488,4 @@ font-size:38px;
 }
 
 }
+
