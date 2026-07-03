@@ -1,163 +1,272 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:'Poppins',sans-serif;
+}
 
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+body{
 
-<title>GitHub Developer Dashboard</title>
+background:linear-gradient(135deg,#050816,#0f172a,#1e293b);
+color:white;
+padding:40px;
+}
 
-<link rel="stylesheet" href="style.css">
+.container{
 
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+max-width:1300px;
+margin:auto;
+}
 
-<link rel="stylesheet"
-href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+header{
 
-</head>
+text-align:center;
+padding:40px;
+background:rgba(255,255,255,.08);
+backdrop-filter:blur(15px);
+border-radius:20px;
+box-shadow:0 0 40px cyan;
 
-<body>
+animation:fade 1s;
 
-<div class="container">
+}
 
-<header>
+.profile{
 
-<img src="images/profile.jpg" class="profile">
+width:170px;
+height:170px;
+border-radius:50%;
+border:5px solid cyan;
+margin-bottom:20px;
+transition:.5s;
+}
 
-<h1>Shalini</h1>
+.profile:hover{
 
-<p>Full Stack Developer | Cloud Computing Engineer | DevOps Enthusiast</p>
+transform:scale(1.08) rotate(5deg);
 
-</header>
+box-shadow:0 0 30px cyan;
 
-<div class="cards">
+}
 
-<div class="card">
-<i class="fa-solid fa-code"></i>
-<h2>Programming Languages</h2>
+header h1{
 
-<div class="skills">
+font-size:55px;
 
-<span>HTML</span>
-<div class="progress"><div style="width:95%"></div></div>
+color:#00ffff;
 
-<span>CSS</span>
-<div class="progress"><div style="width:93%"></div></div>
+}
 
-<span>JavaScript</span>
-<div class="progress"><div style="width:92%"></div></div>
+header h3{
 
-<span>Python</span>
-<div class="progress"><div style="width:95%"></div></div>
+margin:15px;
 
-<span>Java</span>
-<div class="progress"><div style="width:90%"></div></div>
+color:#7dd3fc;
 
-<span>C</span>
-<div class="progress"><div style="width:88%"></div></div>
+}
 
-<span>C++</span>
-<div class="progress"><div style="width:89%"></div></div>
+header p{
 
-<span>PHP</span>
-<div class="progress"><div style="width:85%"></div></div>
+max-width:900px;
 
-<span>SQL</span>
-<div class="progress"><div style="width:90%"></div></div>
+margin:auto;
 
-<span>Bash</span>
-<div class="progress"><div style="width:87%"></div></div>
+line-height:30px;
 
-</div>
+font-size:18px;
 
-</div>
+}
 
-<div class="card">
+.cards{
 
-<i class="fa-solid fa-cloud"></i>
+display:grid;
 
-<h2>Cloud Computing</h2>
+grid-template-columns:repeat(auto-fit,minmax(270px,1fr));
 
-<ul>
+gap:30px;
 
-<li>AWS EC2</li>
-<li>Amazon S3</li>
-<li>IAM</li>
-<li>CloudFront</li>
-<li>Lambda</li>
-<li>Route53</li>
-<li>Elastic Beanstalk</li>
-<li>Auto Scaling</li>
-<li>Load Balancer</li>
-<li>CloudWatch</li>
-<li>Docker</li>
-<li>Kubernetes</li>
-<li>Terraform</li>
-<li>Azure</li>
-<li>Google Cloud Platform</li>
+margin-top:50px;
 
-</ul>
+}
 
-</div>
+.card{
 
-<div class="card">
+background:rgba(255,255,255,.08);
 
-<i class="fa-solid fa-server"></i>
+padding:30px;
 
-<h2>DevOps & Tools</h2>
+border-radius:20px;
 
-<ul>
+transition:.4s;
 
-<li>Linux</li>
-<li>Ubuntu</li>
-<li>Git</li>
-<li>GitHub</li>
-<li>Apache</li>
-<li>Nginx</li>
-<li>Jenkins</li>
-<li>Ansible</li>
-<li>Maven</li>
-<li>Gradle</li>
-<li>VS Code</li>
-<li>Docker Compose</li>
+backdrop-filter:blur(12px);
 
-</ul>
+}
 
-</div>
+.card:hover{
 
-</div>
+transform:translateY(-15px);
 
-<section class="stats">
+box-shadow:0 0 35px cyan;
 
-<div class="box">
-<h2>50+</h2>
-<p>Projects</p>
-</div>
+}
 
-<div class="box">
-<h2>1000+</h2>
-<p>Git Commits</p>
-</div>
+.card i{
 
-<div class="box">
-<h2>20+</h2>
-<p>Repositories</p>
-</div>
+font-size:45px;
 
-<div class="box">
-<h2>15+</h2>
-<p>Technologies</p>
-</div>
+color:#00ffff;
 
-</section>
+margin-bottom:20px;
 
-<footer>
+}
 
-<p>Designed with ❤️ for GitHub Portfolio</p>
+.card h2{
 
-</footer>
+margin-bottom:20px;
 
-</div>
+}
 
-</body>
-</html>
+.card ul{
+
+list-style:none;
+
+}
+
+.card ul li{
+
+padding:8px;
+
+border-bottom:1px solid rgba(255,255,255,.15);
+
+}
+
+.skills{
+
+margin-top:60px;
+
+background:rgba(255,255,255,.08);
+
+padding:30px;
+
+border-radius:20px;
+
+}
+
+.skills h2{
+
+margin-bottom:30px;
+
+}
+
+.skill{
+
+margin-bottom:25px;
+
+}
+
+.bar{
+
+width:100%;
+
+height:18px;
+
+background:#222;
+
+border-radius:30px;
+
+overflow:hidden;
+
+margin-top:8px;
+
+}
+
+.fill{
+
+height:100%;
+
+background:linear-gradient(90deg,#00ffff,#00ff99);
+
+}
+
+.ninety{
+
+width:90%;
+
+}
+
+.ninetyfive{
+
+width:95%;
+
+}
+
+.eightyfive{
+
+width:85%;
+
+}
+
+.eighty{
+
+width:80%;
+
+}
+
+.achievement{
+
+margin-top:50px;
+
+padding:30px;
+
+background:rgba(255,255,255,.08);
+
+border-radius:20px;
+
+text-align:center;
+
+line-height:35px;
+
+}
+
+footer{
+
+text-align:center;
+
+margin-top:50px;
+
+padding:30px;
+
+font-size:18px;
+
+}
+
+@keyframes fade{
+
+from{
+
+opacity:0;
+
+transform:translateY(-30px);
+
+}
+
+to{
+
+opacity:1;
+
+transform:translateY(0);
+
+}
+
+}
+
+@media(max-width:768px){
+
+header h1{
+
+font-size:38px;
+
+}
+
+}
