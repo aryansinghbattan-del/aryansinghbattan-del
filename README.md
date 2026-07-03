@@ -1,556 +1,644 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<div align="center">
 
-<title>Aryan Singh | Cloud Engineer</title>
+# 👋 Hi, I'm Aryan Singh
 
-<link rel="stylesheet" href="style.css">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=DevOps+Engineer;Cloud+Computing+Enthusiast;Linux+Administrator;AWS+Learner;Docker+%7C+Git+%7C+CI%2FCD;Always+Learning+New+Technologies" />
 
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap" rel="stylesheet">
+<br>
 
-</head>
+<img src="https://komarev.com/ghpvc/?username=aryansinghbattan-del&label=Profile%20Views&color=00FFFF&style=for-the-badge" />
 
-<body>
+<img src="https://img.shields.io/github/followers/aryansinghbattan-del?style=for-the-badge&color=blue"/>
 
-<div class="bg-animation">
-<span></span>
-<span></span>
-<span></span>
-<span></span>
-<span></span>
+<img src="https://img.shields.io/github/stars/aryansinghbattan-del?style=for-the-badge&color=yellow"/>
+
 </div>
 
-<header>
+---
 
-<div class="profile">
+# 💫 About Me
 
-<img src="https://avatars.githubusercontent.com/u/9919?s=280&v=4">
+```yaml
+👤 Name: Aryan Singh
 
-<h1>Aryan Singh</h1>
+🎯 Role:
+DevOps & Cloud Engineer
 
-<h3>Cloud Engineer | DevOps Enthusiast | Full Stack Developer</h3>
+💻 Interested In:
+• Linux
+• AWS
+• Docker
+• Kubernetes
+• Git
+• GitHub
+• Networking
+• Automation
+• Apache
+• Nginx
+
+🌱 Currently Learning:
+• Terraform
+• Jenkins
+• GitHub Actions
+• Kubernetes
+• Ansible
+
+🎓 Goal:
+Become a Professional DevOps Engineer
+
+💡 Motto:
+Learn → Build → Automate → Deploy
+```
+
+---
+
+# 🚀 Tech Stack
+
+## 💻 Operating Systems
 
 <p>
-Passionate Cloud Computing learner with expertise in Linux Administration,
-Networking, Web Development, DevOps and Programming. Dedicated to building
-high-performance cloud applications and scalable infrastructures.
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+<img src="https://skillicons.dev/icons?i=ubuntu"/>
+
+<img src="https://skillicons.dev/icons?i=bash"/>
+
 </p>
 
-<a href="#skills" class="btn">Explore Skills</a>
+---
 
-</div>
-
-</header>
-
-<section id="about">
-
-<h2>About Me</h2>
-
-<div class="card">
+## ☁ Cloud
 
 <p>
 
-I'm Aryan Singh, an aspiring Cloud Engineer and Software Developer with
-strong knowledge of Cloud Computing, Linux, Networking, DevOps and Modern
-Programming Languages.
-
-I enjoy building websites, deploying applications on cloud platforms,
-automating infrastructure and solving real-world problems through technology.
-
-Currently mastering Cloud Technologies, Docker, Kubernetes,
-AWS, Azure, Linux Administration, Git and DevOps.
+<img src="https://skillicons.dev/icons?i=aws"/>
 
 </p>
 
+---
+
+## 🐳 DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+<img src="https://skillicons.dev/icons?i=kubernetes"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=jenkins"/>
+
+<img src="https://skillicons.dev/icons?i=terraform"/>
+
+<img src="https://skillicons.dev/icons?i=ansible"/>
+
+</p>
+
+---
+
+## 🌐 Servers
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nginx"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="48"/>
+
+</p>
+
+---
+
+## 🗄 Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+<img src="https://skillicons.dev/icons?i=postgres"/>
+
+</p>
+
+---
+
+## 💻 Programming
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aryansinghbattan-del&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aryansinghbattan-del&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryansinghbattan-del&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryansinghbattan-del&theme=react-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# ⚡ DevOps Roadmap
+
+```text
+Linux
+   │
+Networking
+   │
+Git
+   │
+GitHub
+   │
+Docker
+   │
+Docker Compose
+   │
+AWS
+   │
+Terraform
+   │
+Ansible
+   │
+Jenkins
+   │
+GitHub Actions
+   │
+Kubernetes
+   │
+Monitoring
+   │
+Production
+```
+---
+
+# 💼 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🐧 Linux Administration
+
+### Features
+
+- Linux Commands
+- User & Group Management
+- File Permissions
+- Shell Scripting
+- Cron Jobs
+- Process Management
+- SSH Configuration
+- Networking
+
+**Tech Used**
+
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash)
+
+</td>
+
+<td width="50%">
+
+## ☁ AWS Cloud
+
+### Features
+
+- EC2
+- IAM
+- S3
+- VPC
+- Security Groups
+- CloudWatch
+- Route53
+- Elastic IP
+
+**Tech Used**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🐳 Docker Projects
+
+### Features
+
+- Dockerfile
+- Docker Compose
+- Multi-stage Builds
+- Volumes
+- Networks
+- Images
+- Containers
+
+</td>
+
+<td width="50%">
+
+## 🌐 Apache & Nginx
+
+### Features
+
+- Virtual Hosts
+- Reverse Proxy
+- SSL
+- HTTPS
+- Load Balancing
+- Static Website Hosting
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📚 Currently Learning
+
+<div align="center">
+
+| Technology | Progress |
+|------------|----------|
+| Linux | ██████████ 100% |
+| Git & GitHub | ██████████ 100% |
+| Docker | █████████░ 90% |
+| AWS | ████████░░ 80% |
+| Kubernetes | ██████░░░░ 60% |
+| Terraform | █████░░░░░ 50% |
+| Jenkins | █████░░░░░ 50% |
+| GitHub Actions | ████░░░░░░ 40% |
+| Ansible | ████░░░░░░ 40% |
+
 </div>
 
-</section>
+---
 
-<section id="skills">
+# 🏆 Achievements
 
-<h2>Programming Languages</h2>
+🏅 Linux Enthusiast
 
-<div class="grid">
+🏅 Open Source Learner
 
-<div class="box">C</div>
+🏅 DevOps Explorer
 
-<div class="box">C++</div>
+🏅 Cloud Computing Student
 
-<div class="box">Java</div>
+🏅 Docker Practitioner
 
-<div class="box">Python</div>
+🏅 Continuous Learner
 
-<div class="box">JavaScript</div>
+---
 
-<div class="box">TypeScript</div>
+# 🎯 Goals for 2026
 
-<div class="box">PHP</div>
+- ✅ Master Linux
+- ✅ Master Docker
+- 🔄 Learn Kubernetes
+- 🔄 Learn Terraform
+- 🔄 Learn Jenkins
+- 🔄 Build CI/CD Pipelines
+- 🔄 Deploy Production Applications
+- 🔄 Contribute to Open Source
+- 🔄 Earn AWS Certification
 
-<div class="box">Go</div>
+---
 
-<div class="box">Rust</div>
+# 📈 GitHub Trophy
 
-<div class="box">SQL</div>
+<div align="center">
 
-<div class="box">Bash</div>
-
-<div class="box">HTML5</div>
-
-<div class="box">CSS3</div>
-
-</div>
-
-</section>
-
-<section>
-
-<h2>Cloud Computing</h2>
-
-<div class="grid">
-
-<div class="box">AWS</div>
-
-<div class="box">Microsoft Azure</div>
-
-<div class="box">Google Cloud</div>
-
-<div class="box">Cloud Security</div>
-
-<div class="box">Virtualization</div>
-
-<div class="box">Cloud Storage</div>
-
-<div class="box">Cloud Migration</div>
-
-<div class="box">Load Balancing</div>
-
-<div class="box">Auto Scaling</div>
-
-<div class="box">Cloud Monitoring</div>
+<img src="https://github-profile-trophy.vercel.app/?username=aryansinghbattan-del&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </div>
 
-</section>
+---
 
-<section>
+# 🐍 Contribution Snake
 
-<h2>DevOps</h2>
+<div align="center">
 
-<div class="grid">
-
-<div class="box">Git</div>
-
-<div class="box">GitHub</div>
-
-<div class="box">Docker</div>
-
-<div class="box">Kubernetes</div>
-
-<div class="box">Jenkins</div>
-
-<div class="box">Terraform</div>
-
-<div class="box">Ansible</div>
-
-<div class="box">CI/CD</div>
-
-<div class="box">Maven</div>
-
-<div class="box">Gradle</div>
-
-<div class="box">NPM</div>
-
-<div class="box">PIP</div>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
-</section>
+> **Note:** To make the snake animation work on your profile, you'll need to create a GitHub Actions workflow in your profile repository. I'll include that in the next part.
 
-<section>
+---
 
-<h2>Linux & Networking</h2>
+# 📬 Connect With Me
 
-<div class="grid">
+<div align="center">
 
-<div class="box">Linux</div>
+<a href="https://github.com/aryansinghbattan-del">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-<div class="box">Ubuntu</div>
+<!-- Replace these links with your own -->
 
-<div class="box">RedHat</div>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-<div class="box">CentOS</div>
-
-<div class="box">SSH</div>
-
-<div class="box">Apache</div>
-
-<div class="box">Nginx</div>
-
-<div class="box">DNS</div>
-
-<div class="box">TCP/IP</div>
-
-<div class="box">HTTP</div>
-
-<div class="box">HTTPS</div>
-
-<div class="box">Reverse Proxy</div>
-
-<div class="box">Load Balancer</div>
-
-<div class="box">Firewall</div>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
 </div>
 
-</section>
+---
 
-<section>
+# 💡 DevOps Philosophy
 
-<h2>Database</h2>
+```text
+Plan
+   ↓
+Code
+   ↓
+Build
+   ↓
+Test
+   ↓
+Release
+   ↓
+Deploy
+   ↓
+Operate
+   ↓
+Monitor
+   ↓
+Improve
+```
 
-<div class="grid">
+---
 
-<div class="box">MySQL</div>
+<div align="center">
 
-<div class="box">PostgreSQL</div>
+## ⭐ "Automate Everything. Keep Learning. Build the Future."
 
-<div class="box">MongoDB</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+GitHub!;Happy+Coding!;Let's+Build+Something+Amazing!🚀"/>
 
-<div class="box">Oracle SQL</div>
+### 💙 Don't forget to ⭐ my repositories if you find them useful!
+
+</div>
+---
+
+# 🐍 GitHub Contribution Snake
+
+## 📁 Create this file:
+
+```text
+.github/workflows/snake.yml
+```
+
+Paste the following:
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  generate:
+
+    permissions:
+      contents: write
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: aryansinghbattan-del
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+---
+
+# 🚀 Featured Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,git,github,jenkins,terraform,ansible,bash,python,html,css,javascript,mysql,mongodb,nginx,vscode" />
 
 </div>
 
-</section>
+---
 
-<section>
+# 📊 Development Workflow
 
-<h2>GitHub Goals</h2>
+```text
+        💡 IDEA
+           │
+           ▼
+     📝 PLAN PROJECT
+           │
+           ▼
+      💻 WRITE CODE
+           │
+           ▼
+       🌿 GIT COMMIT
+           │
+           ▼
+      ☁ PUSH TO GITHUB
+           │
+           ▼
+        🧪 TEST
+           │
+           ▼
+       🐳 DOCKERIZE
+           │
+           ▼
+       🚀 DEPLOY
+           │
+           ▼
+       📊 MONITOR
+           │
+           ▼
+      🔄 CONTINUOUS IMPROVEMENT
+```
 
-<div class="card">
+---
 
-<ul>
+# 🌟 My Learning Journey
 
-<li>✔ Master Cloud Computing</li>
+```text
+2024  ████████░░ Linux
 
-<li>✔ Become DevOps Engineer</li>
+2025  ██████████ Git & GitHub
 
-<li>✔ Learn Kubernetes</li>
+2025  █████████░ Docker
 
-<li>✔ Build Full Stack Projects</li>
+2026  ████████░░ AWS
 
-<li>✔ Master Linux Administration</li>
+2026  ██████░░░░ Kubernetes
 
-<li>✔ Open Source Contributor</li>
+2026  █████░░░░░ Terraform
 
-<li>✔ AWS Solutions Architect</li>
+2026  █████░░░░░ Jenkins
 
-<li>✔ Azure Administrator</li>
+2026  █████░░░░░ Ansible
 
-<li>✔ Google Cloud Engineer</li>
+Future 🚀 DevOps Expert
+```
 
-</ul>
+---
+
+# 📁 Recommended Repository Structure
+
+```text
+📦 aryansinghbattan-del
+│
+├── README.md
+│
+├── assets
+│   ├── banner.png
+│   ├── profile.png
+│   ├── icons
+│   └── gifs
+│
+├── .github
+│   └── workflows
+│       └── snake.yml
+│
+├── projects
+│
+├── certificates
+│
+└── images
+```
+
+---
+
+# 💻 Favorite Command
+
+```bash
+sudo apt update && sudo apt upgrade -y
+```
+
+---
+
+# ☁ Favorite DevOps Tools
+
+🐧 Linux
+
+🐳 Docker
+
+☁ AWS
+
+🌿 Git
+
+🐙 GitHub
+
+🔧 Jenkins
+
+🏗 Terraform
+
+⚙ Ansible
+
+☸ Kubernetes
+
+🌐 Nginx
+
+🔥 Apache
+
+---
+
+# 📜 Personal Mission
+
+> Build reliable systems.
+
+> Automate repetitive work.
+
+> Learn something new every day.
+
+> Share knowledge with others.
+
+> Keep improving.
+
+---
+
+# 📈 Future Goals
+
+🎯 AWS Certified
+
+🎯 Kubernetes Certified
+
+🎯 Terraform Associate
+
+🎯 Jenkins Expert
+
+🎯 DevOps Engineer
+
+🎯 Cloud Architect
+
+---
+
+<div align="center">
+
+## 🚀 Thanks for Visiting!
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!;Happy+Coding!;Keep+Learning!;Keep+Building!;See+you+again!+👋" />
+
+<br><br>
+
+⭐ If you like my work, consider following me and starring my repositories!
+
+---
+
+### Made with ❤️ by Aryan Singh
 
 </div>
-
-</section>
-
-<footer>
-
-<h3>Designed by Aryan Singh</h3>
-
-<p>Cloud Engineer • DevOps • Programmer</p>
-
-</footer>
-
-</body>
-</html>
-*{
-margin:0;
-padding:0;
-box-sizing:border-box;
-font-family:Poppins,sans-serif;
-scroll-behavior:smooth;
-}
-
-body{
-
-background:#050816;
-color:white;
-
-}
-
-.bg-animation span{
-
-position:fixed;
-width:20px;
-height:20px;
-background:#00f7ff;
-border-radius:50%;
-animation:move 20s linear infinite;
-opacity:.2;
-
-}
-
-.bg-animation span:nth-child(1){
-left:10%;
-animation-duration:12s;
-}
-
-.bg-animation span:nth-child(2){
-left:30%;
-animation-duration:15s;
-}
-
-.bg-animation span:nth-child(3){
-left:55%;
-animation-duration:18s;
-}
-
-.bg-animation span:nth-child(4){
-left:75%;
-animation-duration:13s;
-}
-
-.bg-animation span:nth-child(5){
-left:90%;
-animation-duration:20s;
-}
-
-@keyframes move{
-
-0%{
-transform:translateY(100vh) scale(.5);
-}
-
-100%{
-transform:translateY(-100vh) scale(2);
-}
-
-}
-
-header{
-
-height:100vh;
-display:flex;
-justify-content:center;
-align-items:center;
-text-align:center;
-
-}
-
-.profile{
-
-width:900px;
-
-padding:50px;
-
-background:rgba(255,255,255,.05);
-
-backdrop-filter:blur(20px);
-
-border-radius:20px;
-
-box-shadow:0 0 40px cyan;
-
-animation:fade 2s;
-
-}
-
-@keyframes fade{
-
-from{
-
-opacity:0;
-transform:translateY(80px);
-
-}
-
-to{
-
-opacity:1;
-
-transform:translateY(0);
-
-}
-
-}
-
-.profile img{
-
-width:170px;
-
-border-radius:50%;
-
-border:5px solid cyan;
-
-margin-bottom:20px;
-
-transition:.5s;
-
-}
-
-.profile img:hover{
-
-transform:rotate(360deg) scale(1.1);
-
-}
-
-h1{
-
-font-size:55px;
-
-color:#00f7ff;
-
-margin-bottom:10px;
-
-}
-
-h2{
-
-text-align:center;
-
-margin:70px;
-
-font-size:40px;
-
-color:#00f7ff;
-
-}
-
-h3{
-
-margin:20px;
-
-}
-
-p{
-
-font-size:18px;
-
-line-height:30px;
-
-}
-
-.btn{
-
-display:inline-block;
-
-margin-top:30px;
-
-padding:15px 40px;
-
-background:cyan;
-
-color:black;
-
-font-weight:bold;
-
-border-radius:30px;
-
-text-decoration:none;
-
-transition:.4s;
-
-}
-
-.btn:hover{
-
-transform:scale(1.1);
-
-box-shadow:0 0 30px cyan;
-
-}
-
-.card{
-
-width:85%;
-
-margin:auto;
-
-padding:40px;
-
-background:rgba(255,255,255,.05);
-
-backdrop-filter:blur(20px);
-
-border-radius:20px;
-
-transition:.5s;
-
-}
-
-.card:hover{
-
-transform:translateY(-10px);
-
-box-shadow:0 0 30px cyan;
-
-}
-
-.grid{
-
-display:grid;
-
-grid-template-columns:repeat(auto-fit,minmax(180px,1fr));
-
-gap:25px;
-
-width:90%;
-
-margin:auto;
-
-}
-
-.box{
-
-padding:30px;
-
-background:#111827;
-
-border-radius:15px;
-
-text-align:center;
-
-font-size:20px;
-
-transition:.4s;
-
-cursor:pointer;
-
-border:1px solid rgba(255,255,255,.1);
-
-}
-
-.box:hover{
-
-background:cyan;
-
-color:black;
-
-transform:translateY(-10px) scale(1.05);
-
-box-shadow:0 0 30px cyan;
-
-}
-
-ul{
-
-line-height:45px;
-
-font-size:20px;
-
-}
-
-footer{
-
-margin-top:100px;
-
-padding:40px;
-
-text-align:center;
-
-background:#0a0f25;
-
-}
