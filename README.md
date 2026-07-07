@@ -31,12 +31,7 @@
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github&text=false"/>
 
 </p>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
-<p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=aryansinghbattan-del&style=for-the-badge&color=blueviolet"/>
-
-</p>
 <p align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=aryansinghbattan-del&theme=algolia&no-frame=true&row=1&column=7"/>
