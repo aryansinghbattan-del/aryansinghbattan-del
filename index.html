@@ -1,0 +1,612 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Aryan Singh | Portfolio</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+<style>
+
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:'Poppins',sans-serif;
+scroll-behavior:smooth;
+}
+
+body{
+
+background:linear-gradient(-45deg,#090909,#0f2027,#203a43,#2c5364);
+background-size:400% 400%;
+animation:bg 12s ease infinite;
+color:white;
+}
+
+@keyframes bg{
+
+0%{background-position:0% 50%;}
+50%{background-position:100% 50%;}
+100%{background-position:0% 50%;}
+
+}
+
+header{
+
+height:100vh;
+display:flex;
+justify-content:center;
+align-items:center;
+
+}
+
+.card{
+
+width:90%;
+max-width:1100px;
+background:rgba(255,255,255,.08);
+backdrop-filter:blur(15px);
+border-radius:25px;
+padding:40px;
+display:flex;
+align-items:center;
+justify-content:space-between;
+flex-wrap:wrap;
+box-shadow:0 0 40px rgba(0,255,255,.2);
+
+}
+
+.left{
+
+text-align:center;
+flex:1;
+
+}
+
+.left img{
+
+width:220px;
+height:220px;
+border-radius:50%;
+border:6px solid cyan;
+object-fit:cover;
+transition:.5s;
+
+}
+
+.left img:hover{
+
+transform:scale(1.08);
+box-shadow:0 0 40px cyan;
+
+}
+
+.left h1{
+
+font-size:48px;
+margin-top:20px;
+
+}
+
+.left h3{
+
+color:#00ffe7;
+font-weight:400;
+margin:10px;
+
+}
+
+.social{
+
+margin-top:25px;
+
+}
+
+.social a{
+
+display:inline-block;
+padding:12px 20px;
+margin:8px;
+text-decoration:none;
+color:white;
+border:2px solid cyan;
+border-radius:50px;
+transition:.4s;
+
+}
+
+.social a:hover{
+
+background:cyan;
+color:black;
+transform:translateY(-5px);
+
+}
+
+.right{
+
+flex:1;
+padding:30px;
+
+}
+
+.right h2{
+
+margin-bottom:20px;
+color:#00ffe7;
+
+}
+
+.right p{
+
+line-height:1.9;
+
+}
+
+section{
+
+padding:70px 8%;
+
+}
+
+.title{
+
+text-align:center;
+font-size:40px;
+margin-bottom:40px;
+color:cyan;
+
+}
+
+.grid{
+
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(300px,1fr));
+gap:25px;
+
+}
+
+.box{
+
+background:rgba(255,255,255,.08);
+padding:25px;
+border-radius:20px;
+transition:.5s;
+backdrop-filter:blur(15px);
+
+}
+
+.box:hover{
+
+transform:translateY(-10px);
+box-shadow:0 0 30px cyan;
+
+}
+
+.skill{
+
+margin:18px 0;
+
+}
+
+.bar{
+
+height:12px;
+background:#333;
+border-radius:20px;
+overflow:hidden;
+
+}
+
+.bar div{
+
+height:100%;
+background:linear-gradient(90deg,cyan,#00ff88);
+
+}
+
+footer{
+
+padding:30px;
+text-align:center;
+background:black;
+margin-top:50px;
+
+}
+
+button{
+
+padding:15px 35px;
+border:none;
+background:cyan;
+color:black;
+font-size:18px;
+border-radius:40px;
+cursor:pointer;
+transition:.5s;
+
+}
+
+button:hover{
+
+transform:scale(1.08);
+box-shadow:0 0 25px cyan;
+
+}
+
+@media(max-width:900px){
+
+.card{
+
+flex-direction:column;
+
+}
+
+.left h1{
+
+font-size:38px;
+
+}
+
+}
+
+</style>
+
+</head>
+<body>
+
+<header>
+
+<div class="card">
+
+<div class="left">
+
+<img src="https://i.imgur.com/2DhmtJ4.png">
+
+<h1>Aryan Singh</h1>
+
+<h3>Cloud Engineer • DevOps Enthusiast • Full Stack Learner</h3>
+
+<div class="social">
+
+<a href="#">GitHub</a>
+
+<a href="#">LinkedIn</a>
+
+<a href="#">Instagram</a>
+
+</div>
+
+</div>
+
+<div class="right">
+
+<h2>About Me</h2>
+
+<p>
+
+Hello! I'm <b>Aryan Singh</b>, a passionate technology enthusiast with a strong interest in
+Cloud Computing, DevOps, Linux Administration, Web Development, Docker, Kubernetes,
+AWS, CI/CD Pipelines, and Automation.
+
+I enjoy building attractive websites, deploying applications on Nginx and Apache,
+working with Git & GitHub, and continuously learning modern technologies.
+
+My goal is to become a highly skilled Cloud & DevOps Engineer while creating impactful
+projects that solve real-world problems.
+
+</p>
+
+<br>
+
+<button>Download Resume</button>
+
+</div>
+
+</div>
+
+</header>
+
+<section>
+
+<h1 class="title">Technical Skills</h1>
+
+<div class="grid">
+
+<div class="box">
+
+<div class="skill">
+
+HTML
+
+<div class="bar"><div style="width:95%"></div></div>
+
+</div>
+
+<div class="skill">
+
+CSS
+
+<div class="bar"><div style="width:90%"></div></div>
+
+</div>
+
+<div class="skill">
+
+JavaScript
+
+<div class="bar"><div style="width:82%"></div></div>
+
+</div>
+
+<div class="skill">
+
+Node.js
+
+<div class="bar"><div style="width:85%"></div></div>
+
+</div>
+
+<div class="skill">
+
+Linux
+
+<div class="bar"><div style="width:95%"></div></div>
+
+</div>
+
+<div class="skill">
+
+Docker
+
+<div class="bar"><div style="width:92%"></div></div>
+
+</div>
+
+<div class="skill">
+
+AWS
+
+<div class="bar"><div style="width:88%"></div></div>
+
+</div>
+
+<div class="skill">
+
+Git & GitHub
+
+<div class="bar"><div style="width:95%"></div></div>
+
+</div>
+
+</div>
+
+<div class="box">
+
+<h2>Tech Stack</h2>
+
+<br>
+
+✔ HTML5
+
+<br><br>
+
+✔ CSS3
+
+<br><br>
+
+✔ JavaScript
+
+<br><br>
+
+✔ Node.js
+
+<br><br>
+
+✔ Linux
+
+<br><br>
+
+✔ Git
+
+<br><br>
+
+✔ GitHub
+
+<br><br>
+
+✔ Docker
+
+<br><br>
+
+✔ Kubernetes
+
+<br><br>
+
+✔ AWS
+
+<br><br>
+
+✔ Nginx
+
+<br><br>
+
+✔ Apache Server
+
+</div>
+
+</div>
+
+</section>
+
+<section>
+
+<h1 class="title">Projects</h1>
+
+<div class="grid">
+
+<div class="box">
+
+<h2>Portfolio Website</h2>
+
+<p>
+
+Modern responsive portfolio using HTML & CSS with animations.
+
+</p>
+
+</div>
+
+<div class="box">
+
+<h2>Docker Deployment</h2>
+
+<p>
+
+Containerized Node.js application deployed using Docker and Nginx.
+
+</p>
+
+</div>
+
+<div class="box">
+
+<h2>Linux Server</h2>
+
+<p>
+
+Configured Apache, Nginx, SSH, Git, Firewall and Web Hosting.
+
+</p>
+
+</div>
+
+</div>
+
+</section>
+
+<section>
+
+<h1 class="title">Education</h1>
+
+<div class="grid">
+
+<div class="box">
+
+<h2>Bachelor Student</h2>
+
+<p>
+
+Focused on Computer Science, Networking, Cloud Computing and DevOps Technologies.
+
+</p>
+
+</div>
+
+<div class="box">
+
+<h2>Professional Learning</h2>
+
+<p>
+
+Linux Administration<br>
+AWS Cloud<br>
+Docker<br>
+Kubernetes<br>
+Git & GitHub<br>
+CI/CD<br>
+Web Development
+
+</p>
+
+</div>
+
+</div>
+
+</section>
+
+<section>
+
+<h1 class="title">Achievements</h1>
+
+<div class="grid">
+
+<div class="box">
+
+🏆 Cloud Computing Learner
+
+</div>
+
+<div class="box">
+
+🚀 DevOps Enthusiast
+
+</div>
+
+<div class="box">
+
+💻 Open Source Contributor
+
+</div>
+
+<div class="box">
+
+🌐 Web Developer
+
+</div>
+
+</div>
+
+</section>
+
+<section>
+
+<h1 class="title">Contact</h1>
+
+<div class="grid">
+
+<div class="box">
+
+<h2>Email</h2>
+
+<p>aryan@example.com</p>
+
+</div>
+
+<div class="box">
+
+<h2>Phone</h2>
+
+<p>+91 XXXXX XXXXX</p>
+
+</div>
+
+<div class="box">
+
+<h2>Location</h2>
+
+<p>India</p>
+
+</div>
+
+</div>
+
+</section>
+
+<footer>
+
+<h2>Made with ❤️ by Aryan Singh</h2>
+
+<p>
+
+© 2026 All Rights Reserved
+
+</p>
+
+</footer>
+
+</body>
+</html>
