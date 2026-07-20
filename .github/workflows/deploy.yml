@@ -26,4 +26,4 @@ jobs:
 
             sudo docker build -t aryanportfolio .
 
-            sudo docker run -d --name myportfolio -p 80:80 aryanportfolio
+            sudo docker run -d --name myportfolio -p 8080:80 aryanportfolio
