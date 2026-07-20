@@ -1,13 +1,29 @@
-script: |
-  cd /home/ubuntu/aryansinghbattan-del
-  git pull origin main
+name: Deploy to AWS EC2
 
-  sudo docker stop myportfolio || true
-  sudo docker rm myportfolio || true
+on:
+  push:
+    branches:
+      - main
 
-  sudo docker build -t aryanportfolio .
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
 
-  sudo docker run -d \
-    --name myportfolio \
-    -p 80:80 \
-    aryanportfolio
+    steps:
+      - name: Deploy to EC2
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.HOST }}
+          username: ${{ secrets.USERNAME }}
+          key: ${{ secrets.SSH_KEY }}
+          port: ${{ secrets.PORT }}
+          script: |
+            cd /home/ubuntu/aryansinghbattan-del
+            git pull origin main
+
+            sudo docker stop myportfolio || true
+            sudo docker rm myportfolio || true
+
+            sudo docker build -t aryanportfolio .
+
+            sudo docker run -d --name myportfolio -p 80:80 aryanportfolio
